@@ -1,0 +1,6 @@
+server:
+  mode: release
+  port: 8000
+  timeout:
+    write: 60s
+testing: "asd"
